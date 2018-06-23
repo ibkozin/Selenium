@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="2-address-book-web-tests" external.linked.project.path="C:/devel/java_ptf/2-address-book-web-tests" external.root.project.path="C:/devel/java_ptf/2-address-book-web-tests" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://C:/devel/java_ptf/2-address-book-web-tests">
+      <excludeFolder url="file://C:/devel/java_ptf/2-address-book-web-tests/.gradle" />
+      <excludeFolder url="file://C:/devel/java_ptf/2-address-book-web-tests/build" />
+      <excludeFolder url="file://C:/devel/java_ptf/2-address-book-web-tests/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
